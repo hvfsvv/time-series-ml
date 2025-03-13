@@ -10,12 +10,7 @@ Ce projet explore la prédiction de séries temporelles en utilisant des techniq
    cd time-series-ml
    ```
 
-2. **Installer les bibliothèques nécessaires :**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Lancer le notebook :**
+2. **Lancer le notebook :**
    ```bash
    jupyter notebook time_series_ml.ipynb
    ```
